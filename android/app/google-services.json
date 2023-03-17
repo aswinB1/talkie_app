@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564563276251",
+    "project_id": "messenger-3221b",
+    "storage_bucket": "messenger-3221b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564563276251:android:137634afad6455b7a3b7fe",
+        "android_client_info": {
+          "package_name": "com.example.project_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564563276251-31bn0t6r1kn42b7p24juned3d082m8eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fQo3wVxBR6UqrczE893wSGn2DWPjHw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564563276251-31bn0t6r1kn42b7p24juned3d082m8eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
